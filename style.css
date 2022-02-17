@@ -1,0 +1,14 @@
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "ROMAN", sans-serif;
+}
+
+h1 {
+  background-image: url("/IMAGES/inline_image_preview.jpg");
+  text-align: center;
+  font-size: 90px;
+  color: rgb(218, 20, 129);
+}
+
